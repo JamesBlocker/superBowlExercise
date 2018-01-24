@@ -1,0 +1,86 @@
+body {
+    background-color: darkcyan;
+    font-size: 12px;
+    text-shadow: 0px 2px 2px rgba(255, 255, 255, 0.4);
+    font-family: Arial, sans serif;
+    text-decoration: line-through;
+}
+
+.eagleColor {
+    background-color: gainsboro;
+}
+
+.patsColor {
+    background-color: gray;
+}
+
+.logo {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+.dCyan {
+    color: darkcyan;
+}
+
+.mBlue {
+    color: midnightblue;
+}
+
+.tEnd {
+    background-color: yellow;
+    color: purple;
+    border: 1px dashed black;
+}
+
+.qBack {
+    background-color: aqua;
+    color: brown;
+    border: 1px dotted green;
+}
+
+.rBack {
+    background-color: coral;
+    color: cornflowerblue;
+    border: 1px solid pink;
+}
+
+.cBack {
+    background-color: beige;
+    color: crimson;
+    border: 1px dashed greenyellow;
+}
+
+.dEnd {
+    background-color: darkslateblue;
+    color: darksalmon;
+    border: 1px dotted blue;
+}
+
+.lBack {
+    background-color: mediumseagreen;
+    color: mediumslateblue;
+    border: 1px solid mediumorchid;
+}
+
+.wide {
+    background-color: peru;
+    color: yellow;
+    border: 1px dashed orange;
+}
+
+.images {
+    width: 205px;
+    margin: 0 auto;
+    display: block;
+}
+
+.images img {
+    width: 100px;
+}
